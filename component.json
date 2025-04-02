@@ -4,47 +4,160 @@
   "children": [
     {
       "name": "div",
+      "nodeName": "div",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "6TvmJb"
+        }
+      ],
       "classList": [
         "modal-header"
       ],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
       "children": [
         {
           "name": "div",
+          "nodeName": "div",
+          "elementId": "",
+          "attributes": [
+            {
+              "property": "data-id",
+              "value": "2cYuhX"
+            }
+          ],
           "classList": [
             "modal-title"
           ],
+          "conditionalClasses": [],
+          "conditionalStyles": [],
+          "contentType": "text",
+          "displayExpression": "",
+          "events": {},
+          "iterate": {
+            "array": "",
+            "variable": "",
+            "trackByIndex": false
+          },
+          "styles": [],
           "children": [
             {
               "name": "text",
-              "textContent": "Title",
+              "nodeName": "text",
+              "textContent": "AWIT",
               "evaluate": false
             }
-          ]
+          ],
+          "comments": ""
         },
         {
           "name": "div",
+          "nodeName": "div",
+          "elementId": "",
+          "attributes": [
+            {
+              "property": "data-id",
+              "value": "cKkFH_"
+            }
+          ],
           "classList": [
             "modal-close"
           ],
+          "conditionalClasses": [],
+          "conditionalStyles": [],
+          "contentType": "text",
+          "displayExpression": "",
           "events": {
             "click": "$ctrl.onCancelClick()"
           },
+          "iterate": {
+            "array": "",
+            "variable": "",
+            "trackByIndex": false
+          },
+          "styles": [],
           "children": [
             {
               "name": "text",
+              "nodeName": "text",
               "textContent": "×",
               "evaluate": false
             }
-          ]
+          ],
+          "comments": ""
         }
-      ]
+      ],
+      "comments": ""
     },
     {
       "name": "div",
+      "nodeName": "div",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "NGKUlb"
+        }
+      ],
       "classList": [
         "modal-body"
       ],
-      "children": []
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [
+        {
+          "name": "Badge",
+          "nodeName": "bln-badge",
+          "elementId": "",
+          "attributes": [
+            {
+              "property": "data-id",
+              "value": "7bbh25"
+            },
+            {
+              "property": "core",
+              "value": ""
+            }
+          ],
+          "classList": [],
+          "conditionalClasses": [],
+          "conditionalStyles": [],
+          "contentType": "text",
+          "displayExpression": "",
+          "events": {},
+          "iterate": {
+            "array": "",
+            "variable": "",
+            "trackByIndex": false
+          },
+          "styles": [],
+          "children": [],
+          "comments": "",
+          "type": "core-component",
+          "expressions": []
+        }
+      ],
+      "comments": ""
     },
     {
       "name": "div",
