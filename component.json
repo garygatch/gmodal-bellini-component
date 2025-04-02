@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "name": "gmodal",
+  "name": "gmodal_1",
   "children": [
     {
       "name": "div",
@@ -155,6 +155,71 @@
           "comments": "",
           "type": "core-component",
           "expressions": []
+        },
+        {
+          "name": "Breadcrumbs",
+          "nodeName": "bln-breadcrumbs",
+          "elementId": "",
+          "attributes": [
+            {
+              "property": "data-id",
+              "value": "FC5cxu"
+            },
+            {
+              "property": "core",
+              "value": ""
+            }
+          ],
+          "classList": [],
+          "conditionalClasses": [],
+          "conditionalStyles": [],
+          "contentType": "text",
+          "displayExpression": "",
+          "events": {},
+          "iterate": {
+            "array": "",
+            "variable": "",
+            "trackByIndex": false
+          },
+          "styles": [],
+          "children": [],
+          "comments": "",
+          "type": "core-component",
+          "expressions": []
+        },
+        {
+          "name": "Checkbox",
+          "nodeName": "bln-checkbox",
+          "elementId": "",
+          "attributes": [
+            {
+              "property": "data-id",
+              "value": "OZNLYN"
+            },
+            {
+              "property": "core",
+              "value": ""
+            }
+          ],
+          "classList": [],
+          "conditionalClasses": [],
+          "conditionalStyles": [],
+          "contentType": "text",
+          "displayExpression": "",
+          "events": {},
+          "iterate": {
+            "array": "",
+            "variable": "",
+            "trackByIndex": false
+          },
+          "styles": [],
+          "children": [],
+          "comments": "",
+          "type": "core-component",
+          "expressions": [],
+          "formControl": {
+            "modelName": "checked"
+          }
         }
       ],
       "comments": ""
